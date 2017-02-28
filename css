@@ -1,0 +1,22 @@
+body {
+	background-color: #444444;
+}
+
+h1 {
+	padding-bottom: 1%;
+}
+
+#textBox {
+	padding: 3%;
+	margin: 15% 25% 20% 25%;
+	background-color: #DDDDDD;y
+}
+
+#quoteBox {
+	padding-bottom: 3%;
+}
+
+#twitter {
+	font-size: 2.4em;
+	color: #0088cc;
+}
